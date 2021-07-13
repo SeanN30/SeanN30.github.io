@@ -1,3 +1,3 @@
-# jankycs.github.io
+# SeanN30.github.io
 
-Repo for personal website, hosted using Github Pages
+Repo for personal website, hosted using Github
